@@ -1,0 +1,2 @@
+# SBCStirlingCodingClub
+Stirling Coding Club
